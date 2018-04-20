@@ -1,6 +1,8 @@
 # Clinic-Management-System
 Clinic Management System using C# .net framework and MySql
+
 Written by: De Vera, Jeremy Adrian L.
+
 Year: 2018
 
 Features:
@@ -17,4 +19,5 @@ Requirements:
   * Visual Studio
   
 Instruction:
+
   1.
