@@ -1,5 +1,5 @@
 # Clinic-Management-System
-Clinic Management System using C# .net framework and MySql
+Clinic Management System using C#, MySql, .NET framework and Bunifu.dll 
 
 Written by: De Vera, Jeremy Adrian L.
 
