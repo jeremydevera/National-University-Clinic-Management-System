@@ -5,6 +5,8 @@ Written by: De Vera, Jeremy Adrian L.
 
 Year: 2018
 
+Email: jeremydevera03@gmail.com
+
 Features:
   * Add Patients
   * Search Patients
@@ -18,6 +20,9 @@ Requirements:
   * Xampp Localhost
   * Visual Studio
   
-Instruction:
+How to run:
 
-  1.
+  1. Import the nuclinic.sql to database
+  2. Open the NU_Clinic/NU_Clinic (Visual C# project file)
+  
+  
