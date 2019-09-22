@@ -4,7 +4,7 @@
 <br />
 <br />
 <br />
-<br />
+
 ### TOOLS
   - C#
   - MySQL
@@ -13,7 +13,7 @@
 <br />
 <br />
 <br />
-<br />
+
 ### FEATURES
   - Add Patients
   - Search Patients
