@@ -2,8 +2,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**CREATOR: Jeremy Adrian De Vera**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**EMAIL: jeremydevera03@gmail.com**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**YEAR: 2018**
 
-###
-
 ### TOOLS
   - C#
   - MySQL
