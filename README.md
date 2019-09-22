@@ -1,4 +1,4 @@
-**##PROJECT NAME:** National University PH Clinic Management System
+##PROJECT NAME: National University PH Clinic Management System
 
 CREATOR: Jeremy Adrian De Vera
 
