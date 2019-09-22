@@ -13,26 +13,26 @@
   - Apache Server
 
 
-FEATURES:
-  • Add Patients
-  • Search Patients
-  • Add Doctors
-  • Dashboard Analytics with charts
-  • Clean UI
-  • Daily and monthly reports
-  • Search from origin date to end point date
+### FEATURES
+  - Add Patients
+  - Search Patients
+  - Add Doctors
+  - Dashboard Analytics with charts
+  - Clean UI
+  - Daily and monthly reports
+  - Search from origin date to end point date
   
-REQUIREMENTS:
-  • XAMPP Localhost
-  • Apache Server
-  • Visual Studio
+### REQUIREMENTS
+  - XAMPP Localhost
+  - Apache Server
+  - Visual Studio (.NET Framework)
   
-HOW TO RUN:
+### HOW TO RUN
 
   1. Import the nuclinic.sql to database
   2. Open the NU_Clinic/NU_Clinic (Visual C# project file)
   
-SCREENSHOTS:
+### SCREENSHOTS
   
 ![Image](https://i.ibb.co/7W0Jtg8/received-323743651775732.png)
 ![Image](https://i.ibb.co/qdH4JR7/received-337691383710103.png)
