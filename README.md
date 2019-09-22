@@ -7,7 +7,6 @@ EMAIL: jeremydevera03@gmail.com
 YEAR: 2018
 
 TOOLS: 
-
   • C#
   • MySQL
   • Bunifu.dll
@@ -15,7 +14,6 @@ TOOLS:
 
 
 FEATURES:
-
   • Add Patients
   • Search Patients
   • Add Doctors
@@ -25,7 +23,6 @@ FEATURES:
   • Search from origin date to end point date
   
 REQUIREMENTS:
-
   • XAMPP Localhost
   • Apache Server
   • Visual Studio
