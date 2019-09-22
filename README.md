@@ -5,14 +5,14 @@
 <br />
 <br />
 
-### TOOLS
+## TOOLS
   - C#
   - MySQL
   - Bunifu.dll
   - Apache Server
 <br />
 
-### FEATURES
+## FEATURES
   - Add Patients
   - Search Patients
   - Add Doctors
