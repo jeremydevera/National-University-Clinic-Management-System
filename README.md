@@ -5,8 +5,6 @@
   - EMAIL: jeremydevera03@gmail.com
   - YEAR: 2018
 <br />
-<br />
-<br />
 
 ## TOOLS
   - C#
