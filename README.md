@@ -7,10 +7,10 @@ EMAIL: jeremydevera03@gmail.com
 YEAR: 2018
 
 TOOLS: 
-  • C#
-  • MySQL
-  • Bunifu.dll
-  • Apache Server
+  - C#
+  - MySQL
+  - Bunifu.dll
+  - Apache Server
 
 
 FEATURES:
