@@ -26,4 +26,4 @@ How to run:
   2. Open the NU_Clinic/NU_Clinic (Visual C# project file)
   
 
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi5rJH3qOTkAhVIfd4KHWf4BfAQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC_Sharp_(programming_language)&psig=AOvVaw3BZ1Fk6oMr7UMD6bRzXJ2r&ust=1569237914769176)
+![alt text](https://picsum.photos/200/300)
