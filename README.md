@@ -26,4 +26,4 @@ How to run:
   2. Open the NU_Clinic/NU_Clinic (Visual C# project file)
   
 
-![alt text](https://ibb.co/XsGZxyN)
+![alt text](https://imgur.com/a/gsWxW9P)
