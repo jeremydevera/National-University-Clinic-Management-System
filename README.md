@@ -6,21 +6,22 @@ EMAIL: jeremydevera03@gmail.com
 
 YEAR: 2018
 
+TOOLS: 
+
+  • C#
+  • MySQL
+  • Bunifu.dll
+  • Apache Server
+
 
 FEATURES:
 
   • Add Patients
-  
   • Search Patients
-  
   • Add Doctors
-  
   • Dashboard Analytics with charts
-  
   • Clean UI
-  
   • Daily and monthly reports
-  
   • Search from origin date to end point date
   
 REQUIREMENTS:
