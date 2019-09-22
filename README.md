@@ -1,9 +1,9 @@
 # National University PH Clinic Management System
 
 ## ABOUT
-  - CREATOR: Jeremy Adrian De Vera
-  - EMAIL: jeremydevera03@gmail.com
-  - YEAR: 2018
+  -CREATOR: Jeremy Adrian De Vera
+  -EMAIL: jeremydevera03@gmail.com
+  -YEAR: 2018
 <br />
 
 ## TOOLS
