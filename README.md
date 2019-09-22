@@ -20,18 +20,21 @@
   - Clean UI
   - Daily and monthly reports
   - Search from origin date to end point date
+<br />
   
-### REQUIREMENTS
+## REQUIREMENTS
   - XAMPP Localhost
   - Apache Server
   - Visual Studio (.NET Framework)
-  
-### HOW TO RUN
+<br />
+
+## HOW TO RUN
 
   1. Import the nuclinic.sql to database
   2. Open the NU_Clinic/NU_Clinic (Visual C# project file)
-  
-### SCREENSHOTS
+<br />
+
+## SCREENSHOTS
   
 ![Image](https://i.ibb.co/7W0Jtg8/received-323743651775732.png)
 ![Image](https://i.ibb.co/qdH4JR7/received-337691383710103.png)
