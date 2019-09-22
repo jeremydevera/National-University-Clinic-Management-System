@@ -4,9 +4,9 @@
 
 **EMAIL: jeremydevera03@gmail.com**
 
-YEAR: 2018
+**YEAR: 2018**
 
-**TOOLS: **
+**TOOLS**
   - C#
   - MySQL
   - Bunifu.dll
