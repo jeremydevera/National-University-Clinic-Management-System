@@ -10,7 +10,7 @@ Clean UI desktop application for managing students and generating data graph rep
 <br />
 <hr />
 
-[![Build Status](https://img.shields.io/badge/C%23-programming-green)](https://travis-ci.com/username/projectname)
+[![Build Status](https://img.shields.io/badge/C%23-programming-green)]()
 
 
 ## About
