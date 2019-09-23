@@ -6,12 +6,11 @@
 
 Clean UI desktop application for managing students and generating data graph reports.
 
+[![Build Status](https://img.shields.io/badge/C%23-programming-green)]()
+
 </div>
 <br />
 <hr />
-
-[![Build Status](https://img.shields.io/badge/C%23-programming-green)]()
-
 
 ## About
   - Creator: Jeremy Adrian De Vera
