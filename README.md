@@ -6,11 +6,11 @@
 
 Clean UI desktop application for managing students and generating data graph reports.
 
-[github-languages-image]: https://img.shields.io/github/languages/top/commonality/getting-started-inner-source.svg?style=flat-square
-
 </div>
 <br />
 <hr />
+
+[github-repo-size-image]: https://img.shields.io/github/repo-size/commonality/getting-started-inner-source.svg?style=flat-square
 
 ## About
   - Creator: Jeremy Adrian De Vera
