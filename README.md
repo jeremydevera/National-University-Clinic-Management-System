@@ -6,6 +6,7 @@
 
 </div>
 <br />
+<hr />
 
 ## ABOUT
   - Creator: Jeremy Adrian De Vera
