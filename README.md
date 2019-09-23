@@ -6,8 +6,6 @@
 
 Clean UI desktop application for managing students and generating data graph reports.
 
-**[I'm an inline-style link](https://www.google.com)**
-
 </div>
 <br />
 <hr />
