@@ -10,8 +10,6 @@ Clean UI desktop application for managing students and generating data graph rep
 <br />
 <hr />
 
-[github-repo-size-image]: https://img.shields.io/github/repo-size/commonality/getting-started-inner-source.svg?style=flat-square
-
 ## About
   - Creator: Jeremy Adrian De Vera
   - Email: jeremydevera03@gmail.com
