@@ -1,6 +1,6 @@
 <div align="center">
   
-![Image](https://i.ibb.co/YdHgw6f/zP6W5Ac5.jpg | width=100)
+![Image](https://i.ibb.co/YdHgw6f/zP6W5Ac5.jpg){:height="50%" width="50%"}
   
 # National University PH Clinic Management System
 
