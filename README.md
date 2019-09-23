@@ -43,7 +43,6 @@ Clean UI desktop application for managing students and generating data graph rep
   
 ## Requirements
   - XAMPP Localhost
-  - Apache Server
   - Visual Studio (.NET Framework)
 <br />
 
