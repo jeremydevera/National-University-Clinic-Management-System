@@ -12,20 +12,20 @@ Clean UI desktop application for managing students and generating data graph rep
 <br />
 <hr />
 
-## ABOUT
+## About
   - Creator: Jeremy Adrian De Vera
   - Email: jeremydevera03@gmail.com
   - Year: 2018
 <br />
 
-## TOOLS
+## Tools
   - C#
   - MySQL
   - Bunifu.dll
   - Apache Server
 <br />
 
-## FEATURES
+## Features
   - Add Patients
   - Search Patients
   - Patients History
@@ -36,19 +36,19 @@ Clean UI desktop application for managing students and generating data graph rep
   - Search from origin date to end point date
 <br />
   
-## REQUIREMENTS
+## Requirements
   - XAMPP Localhost
   - Apache Server
   - Visual Studio (.NET Framework)
 <br />
 
-## HOW TO RUN
+## Quick Start
 
   1. Import the nuclinic.sql to database
   2. Open the NU_Clinic/NU_Clinic (Visual C# project file)
 <br />
 
-## SCREENSHOTS
+## Screenshots
   
 ![Image](https://i.ibb.co/7W0Jtg8/received-323743651775732.png)
 ![Image](https://i.ibb.co/qdH4JR7/received-337691383710103.png)
