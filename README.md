@@ -42,8 +42,8 @@ Clean UI desktop application for managing students and generating data graph rep
 
 ## Quick Start
 
-  1. Import the nuclinic.sql to database
-  2. Open the NU_Clinic/NU_Clinic (Visual C# project file)
+  - Import the nuclinic.sql to database
+  - Open the NU_Clinic/NU_Clinic (Visual C# project file)
 <br />
 
 ## Screenshots
