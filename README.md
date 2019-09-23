@@ -16,6 +16,7 @@
 ## FEATURES
   - Add Patients
   - Search Patients
+  - Patients History
   - Add Doctors
   - Dashboard Analytics with charts
   - Clean UI
