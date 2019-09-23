@@ -4,7 +4,7 @@
 
 ### National University PH Clinic Management System
 
-Clean UI desktop application for managing students and generating data reports
+Clean UI desktop application for managing students and generating data graph reports
 
 </div>
 <br />
