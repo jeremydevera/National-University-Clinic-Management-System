@@ -23,7 +23,7 @@ Clean UI desktop application for managing students and generating data graph rep
 <br />
 
 ## Tools
-  - C#
+  - C# [![Build Status](https://img.shields.io/badge/C%23-programming-green)]() 
   - MySQL
   - Bunifu.dll
   - Apache Server
