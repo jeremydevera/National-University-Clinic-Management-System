@@ -20,7 +20,6 @@ Clean UI desktop application for managing students and generating data graph rep
   - Creator: Jeremy Adrian De Vera
   - Email: jeremydevera03@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jeremydevera/
-  - Year: 2018
 <br />
 
 ## Tools
