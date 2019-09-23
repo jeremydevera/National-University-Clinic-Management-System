@@ -23,11 +23,11 @@ Clean UI desktop application for managing students and generating data graph rep
 <br />
 
 ## Tools
-  - C# [![Build Status](https://img.shields.io/badge/C%23-programming-green)]() 
-  - MySQL [![Build Status](https://img.shields.io/badge/MySQL-database-blue)]() 
-  - .NET Framework [![Build Status](https://img.shields.io/badge/.NET-framework-orange)]()
-  - Apache Server [![Build Status](https://img.shields.io/badge/Apache-server-lightgrey)]()
-  - Bunifu.dll [![Build Status](https://img.shields.io/badge/Bunifu-library-yellow)]()
+  - [![Build Status](https://img.shields.io/badge/C%23-programming-green)]() 
+  - [![Build Status](https://img.shields.io/badge/MySQL-database-blue)]() 
+  - [![Build Status](https://img.shields.io/badge/.NET-framework-orange)]()
+  - [![Build Status](https://img.shields.io/badge/Apache-server-lightgrey)]()
+  - [![Build Status](https://img.shields.io/badge/Bunifu-library-yellow)]()
 <br />
 
 ## Features
