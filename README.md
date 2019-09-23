@@ -1,4 +1,4 @@
-# <p align="justify"> National University PH Clinic Management System </p>
+# National University PH Clinic Management System {style=text-align:center}
 <br />
 
 ## ABOUT
