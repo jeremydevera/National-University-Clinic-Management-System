@@ -6,6 +6,8 @@
 
 Clean UI desktop application for managing students and generating data graph reports.
 
+[github-languages-image]: https://img.shields.io/github/languages/top/commonality/getting-started-inner-source.svg?style=flat-square
+
 </div>
 <br />
 <hr />
