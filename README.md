@@ -1,4 +1,4 @@
-### National University PH Clinic Management System
+# National University PH Clinic Management System
 
 ## ABOUT
   - Creator: Jeremy Adrian De Vera
