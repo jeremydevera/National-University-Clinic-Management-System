@@ -6,8 +6,8 @@
 
 Clean UI desktop application for managing students and generating data graph reports.
 
-[![Build Status](https://img.shields.io/badge/C%23-programming-green)]()
-[![Build Status](https://img.shields.io/badge/MySQL-database-blue)]()
+[![Build Status](https://img.shields.io/badge/C%23-programming-green)]() 
+[![Build Status](https://img.shields.io/badge/MySQL-database-blue)]() 
 [![Build Status](https://img.shields.io/badge/.NET-framework-orange)]()
 
 </div>
