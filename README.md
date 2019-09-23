@@ -1,4 +1,4 @@
-# National University PH Clinic Management System
+<p style="text-align: center;"> # National University PH Clinic Management System </p>
 
 ## ABOUT
   - Creator: Jeremy Adrian De Vera
