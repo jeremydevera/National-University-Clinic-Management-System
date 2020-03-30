@@ -21,6 +21,7 @@ Clean UI desktop application for managing students and generating data graph rep
   - Email: jeremydevera03@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jeremydevera/
 <br />
+  - Click 'View all of READDME.md' to see screenshots
 
 ## Tools
   - [![Build Status](https://img.shields.io/badge/C%23-programming-green)]() 
